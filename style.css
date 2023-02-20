@@ -1,0 +1,301 @@
+/* style="color: white; font-family: 'Play', sans-serif; font-size:14px;" */
+.location a:hover {
+    text-decoration: none;
+
+}
+
+.icon-text {
+    color: white;
+    font-family: 'Play', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.location {
+    border-left: 1px solid rgb(243, 233, 235);
+    border-right: 1px solid rgb(201, 180, 184);
+
+}
+
+li a {
+    color: white;
+}
+
+.top-right {
+    border-left: 1px solid rgb(219, 209, 200);
+}
+
+.location-icon {
+    color: rgb(255, 253, 253);
+    font-size: 12px;
+
+}
+
+.theme-name {
+    font-size: 24px;
+    font-family: 'Play', sans-serif;
+}
+
+.navigation-bar {
+    color: black;
+    font-family: 'Play', sans-serif;
+}
+
+.search-icon {
+    color: rgb(59, 48, 48);
+    font-size: 12px;
+
+}
+
+.navbar-button-toggle {
+    font-size: 15px;
+    color: rgb(29, 5, 5)
+}
+
+.slier-text {
+    font-family: 'Play', sans-serif;
+    font-size: 35px;
+    ;
+}
+
+.slider-text-first {
+    background-color: black;
+    color: white;
+}
+
+.slider-text-second {
+    background-color: white;
+    color: black;
+}
+
+.carousel-caption-new {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    color: #fff;
+    text-align: center;
+}
+
+.feature-icon {
+    font-size: 35px;
+    border: 1px solid rgb(212, 210, 210);
+    border-radius: 50%;
+    box-shadow: 5px 10px 18px #bbb9b9;
+    height: 89px;
+    width: 89px;
+    background-color: white;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-font {
+    font-family: 'Play', sans-serif;
+
+}
+
+.card-head {
+    color: black;
+}
+
+.card-body-txt {
+    color: #353434;
+    font-size: 15px;
+}
+
+.featured-border {
+    width: 6%;
+    border-width: 3px;
+    border-color: #ffc107;
+
+
+
+
+}
+
+.page-font {
+    font-family: 'Play', sans-serif;
+}
+
+.featured-content {
+    font-size: 15px;
+    ;
+}
+
+.feature-anchor {
+    text-decoration: none;
+
+}
+
+.read-more {
+    color: #ffc107
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.project-cat {
+    color: #bbb9b9;
+
+}
+
+.interior-logo {
+    font-size: 12px;
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.modern-para {
+    width: 50%;
+}
+
+.customer-img {
+    border-radius: 50%;
+    height: 89px;
+    width: 89px;
+}
+
+.author-fonts {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.sub-author {
+    color: #ffc107;
+    font-style: italic;
+}
+
+.sub-auther1 {
+    color: #b3adad;
+    font-style: italic;
+
+}
+
+.news-logo {
+    font-size: 12px;
+    color: #ffc107;
+}
+
+.client {
+    border: 1px solid rgb(155, 148, 148);
+    max-width: 200px;
+}
+
+.getInTouch-head {
+    color: white;
+    font-family: 'Play', sans-serif;
+    font-size: 24px;
+}
+
+.getInTouch {
+    font-size: 11px;
+    color: white;
+}
+
+.getInTouch-content {
+    color: white;
+    font-size: 15px;
+}
+
+.footerHr {
+    width: 20%;
+    text-align: left;
+    margin-left: 0;
+    color: #ffc107;
+    background-color: #ffc107;
+}
+
+.hrdiv {
+    text-align: left;
+}
+
+.news-letter {
+    color: white;
+}
+
+.newform-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+
+    background-color: #555050;
+    background-clip: padding-box;
+    /* border: 1px solid #ced4da; */
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.bootomHr{
+    color: #666560;
+    background-color: #666560;
+    
+}
+.social-icon-size{
+    font-size: 20px;
+    color: white;
+}
+.border-remove{
+   margin-top: -10px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .location {
+        border-left: none;
+        border-right: none;
+
+    }
+
+    .top-right {
+        border-left: none;
+
+    }
+}
